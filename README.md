@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YUIN</h1>
 <h3 align="center">A passionate developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **Pytorch/vue.js**
+- 🌱 I’m currently learning **Pytorch/three.js**
 
 - 📫 How to reach me **jayyu0329@gmail.com**
 
