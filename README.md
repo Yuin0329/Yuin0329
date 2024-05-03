@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YUIN</h1>
-<h3 align="center">A passionate developer from Taiwan</h3>
+<h3 align="center">A Rookie developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **Pytorch/three.js**
 
