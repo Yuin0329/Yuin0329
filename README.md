@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Pytorch/three.js**
 
-- 📫 How to reach me **jayyu0329@gmail.com**
+- 📫 Contect me **jayyu0329@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
