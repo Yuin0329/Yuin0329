@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YUIN</h1>
 <h3 align="center">Rookie developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **Pytorch/three.js**
+- 🌱 I’m currently learning **Pytorch/three.js/Embeded System/ML&DL**
 
 - 📫 Contect me **jayyu0329@gmail.com**
 
