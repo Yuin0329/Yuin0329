@@ -15,7 +15,6 @@
 
 <a href="https://github.com/pierre0210">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuin0329&theme=solarized_dark" />
-  <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuin0329&theme=solarized_dark" />
 </a>
 
