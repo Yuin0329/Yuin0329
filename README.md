@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YUIN</h1>
+<h1 align="center">Hi , I'm YUIN</h1>
 <h3 align="center">Rookie developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **IoT/three.js/Embeded System/ML**
